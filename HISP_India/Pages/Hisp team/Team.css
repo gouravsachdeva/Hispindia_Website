@@ -1,0 +1,116 @@
+/*section1*/
+#section1 .container-fluid{
+	background:#065759;
+}
+#section1 .container{
+	color:white;
+	padding-bottom: 8%;
+	padding-top: 8%;
+}
+
+#section1 h1{
+	font-size:2rem;
+	font-weight: 400;
+}
+#section1 p{
+	font-size:1rem;
+	font-weight: 400;
+}
+
+
+/*section2*/
+#section2 .contianer-fluid{ 
+background: #013334;
+}
+#section2 .container {
+	padding-bottom: 5%;
+	padding-top: 5%;
+	border-bottom: 1px solid white;
+}
+#section2 .container .lead_color{
+	color: white;
+	padding-top:10%;
+}
+
+/*Section3*/
+
+#section3 .container-fluid{
+	background: #013334;
+}
+#section3 .container{
+	padding-top:2%;
+	padding-bottom: 6%;
+
+}
+#section3 h1{
+	color: white;
+	padding-top:5%;
+	padding-bottom:5%;
+	font-size:2rem;
+}
+
+/*section4*/
+#section4 .container-fluid{
+	background: #006766;
+}
+#section4 .container{
+	padding-top: 6%;
+	padding-bottom: 6%;
+}
+
+#section4 h1{
+	color:white;
+	font-size:2rem;
+	padding-bottom:5%;
+}
+
+/*section5*/
+#section5 .container-fluid{
+	background: #013334;
+}
+#section5 .container{
+	padding-top: 6%;
+	padding-bottom: 6%;
+}
+#section5 h1{
+	color:white;
+	font-size:2rem;
+	padding-bottom:5%;
+}
+
+/*section6*/
+#section6 .container-fluid{
+	background: #006766;
+}
+#section6 .container{
+	padding-top: 6%;
+	padding-bottom: 6%;
+}
+
+#section6 h1{
+	color:white;
+	font-size:1.5rem;
+	padding-bottom:5%;
+	font-weight: 400;
+}
+
+/*section7*/
+#section7 .container-fluid{
+	background: #013334;
+}
+#section7 .container{
+	padding-top: 6%;
+	padding-bottom: 6%;
+}
+#section7 h1{
+	color:white;
+	font-size:2rem;
+	padding-bottom:5%;
+}
+
+
+
+/*Card Properties*/
+.card{
+	margin-bottom: 5%;
+}
