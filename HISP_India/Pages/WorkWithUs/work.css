@@ -40,8 +40,12 @@ font-size: 1rem;
 /*Section3*/
 
 .jumbotron{
-background: url('https://dummyimage.com/1440x400/efefef/115D59') 100%;
-}
+background: url('./Images/Hero_Img.png') 100%; 
+	background-size: cover;
+    background-repeat: no-repeat;
+	
+    height: 500px;
+	}
 
 #section3 .color{
 background-color: #115d59; 

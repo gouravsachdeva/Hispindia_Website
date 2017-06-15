@@ -4,6 +4,8 @@ color:white;
 
 #section1 .container-fluid{
     background: url('../../Images/ContactUS/background.png') 100% ;
+	background-size: cover;
+    background-repeat: no-repeat;
 }
 
 

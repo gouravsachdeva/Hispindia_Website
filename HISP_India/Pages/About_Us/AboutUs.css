@@ -2,6 +2,8 @@
 
 #section1 .container-fluid{
     background: url('../../Images/About US/Hero.png') 100%; 
+  background-size: cover;
+    background-repeat: no-repeat;
 }
 #section1 .container{
 padding-bottom:8%;
@@ -70,6 +72,8 @@ padding-top:8%;
 
     #section4 .container-fluid{
         background: url('../../Images/About US/background1.png') 100%;
+  background-size: cover;
+    background-repeat: no-repeat;
         
     }
 

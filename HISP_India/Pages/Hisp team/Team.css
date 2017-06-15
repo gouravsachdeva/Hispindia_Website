@@ -31,6 +31,10 @@ background: #013334;
 	color: white;
 	padding-top:10%;
 }
+#section2 img{
+     max-width:100%;
+	max-height:250px;
+}
 
 /*Section3*/
 
@@ -48,7 +52,10 @@ background: #013334;
 	padding-bottom:5%;
 	font-size:2rem;
 }
-
+#section3 img{
+     max-width:100%;
+	max-height:250px;
+}
 /*section4*/
 #section4 .container-fluid{
 	background: #006766;
@@ -63,6 +70,10 @@ background: #013334;
 	font-size:2rem;
 	padding-bottom:5%;
 }
+#section4 img{
+    max-width:100%;
+	max-height:250px;
+}
 
 /*section5*/
 #section5 .container-fluid{
@@ -76,6 +87,10 @@ background: #013334;
 	color:white;
 	font-size:2rem;
 	padding-bottom:5%;
+}
+#section5 img{
+     max-width:100%;
+	max-height:250px;
 }
 
 /*section6*/
@@ -94,6 +109,11 @@ background: #013334;
 	font-weight: 400;
 }
 
+#section6 img{
+      max-width:100%;
+	max-height:250px;
+}
+
 /*section7*/
 #section7 .container-fluid{
 	background: #013334;
@@ -108,9 +128,21 @@ background: #013334;
 	padding-bottom:5%;
 }
 
-
+/*Modal Work*/
+#modal_left_part img{
+	width:80%;
+	height:200px;
+}
+#modal_left_part
+{
+	padding:5%; 0%
+	color:#013334;
+}
 
 /*Card Properties*/
 .card{
 	margin-bottom: 5%;
+}
+.card .card-title,.card .card-text{
+	text-align:center;
 }

@@ -4,6 +4,8 @@
     margin: 0px;
     height: 350px;
     background: url('../../Images/Products/Hero.png') 100%;
+  background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
